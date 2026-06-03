@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+Welcome to my fake collection page. I should probably try more fancy code so lets give it a try!
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
@@ -22,6 +24,8 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
+{% include feature/image.html objectid="objects/mg101_b7_f26_016.pdf" caption="thank god!;(do you have the power?)" link="mg101_b7_f26_111.pdf" alt="Atom Bombs and God; What combination is better?" %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
